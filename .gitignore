@@ -1,0 +1,13 @@
+/*
+!.gitignore
+!.bashrc
+!.bashrc.neofetch
+!.DesktopImage.jpg
+!.Xresources
+!/.config/
+.config/*
+!.config/compton.conf
+!/.i3/
+.i3/*
+!.i3/config
+!.i3/i3blocks.com
