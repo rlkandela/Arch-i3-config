@@ -5,6 +5,7 @@
 !.DesktopImage.jpg
 !.Xresources
 !.vimrc
+!.nvimrc
 !/.config/
 .config/*
 !.config/compton.conf
