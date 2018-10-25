@@ -123,16 +123,16 @@ bindsym Mod4+Up focus up
 bindsym Mod4+Down focus down
 
 # Move focused window
-bindsym Mod4+Shift+$left focus left 
-bindsym Mod4+Shift+$right focus right
-bindsym Mod4+Shift+$up focus up
-bindsym Mod4+Shift+$down focus down
+bindsym Mod4+Shift+$left move left 
+bindsym Mod4+Shift+$right move right
+bindsym Mod4+Shift+$up move up
+bindsym Mod4+Shift+$down move down
 
 # Alternatively, you can use the cursor keys:
-bindsym Mod4+Shift+Left focus left 
-bindsym Mod4+Shift+Right focus right
-bindsym Mod4+Shift+Up focus up
-bindsym Mod4+Shift+Down focus down
+bindsym Mod4+Shift+Left move left 
+bindsym Mod4+Shift+Right move right
+bindsym Mod4+Shift+Up move up
+bindsym Mod4+Shift+Down move down
 
 # Split in horizontal orientation 
 bindsym Mod4+c split h
