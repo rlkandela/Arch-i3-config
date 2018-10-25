@@ -4,6 +4,7 @@
 !.bashrc.neofetch
 !.DesktopImage.jpg
 !.Xresources
+!.vimrc
 !/.config/
 .config/*
 !.config/compton.conf
